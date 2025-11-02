@@ -15,3 +15,7 @@ wheels/
 # Misc
 .python-version
 uv.lock
+
+# Test files
+tests.py
+calculator/tests.py
